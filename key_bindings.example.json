@@ -1,0 +1,20 @@
+{
+  "bindings": {
+    "back": { "keys": [], "kind": "delete_backward" },
+    "down": { "keys": [], "kind": "arrow_down" },
+    "home": { "keys": [], "kind": "show_desktop" },
+    "left": { "keys": [], "kind": "arrow_left" },
+    "menu": { "keys": [], "kind": "context_menu" },
+    "mic": { "keys": [], "kind": "voice" },
+    "ok": { "keys": [], "kind": "return" },
+    "power": { "keys": [], "kind": "escape" },
+    "right": { "keys": [], "kind": "arrow_right" },
+    "tv": { "keys": [], "kind": "app_switcher" },
+    "up": { "keys": [], "kind": "arrow_up" },
+    "volume_down": { "keys": [], "kind": "system_volume_down" },
+    "volume_up": { "keys": [], "kind": "system_volume_up" }
+  },
+  "physical_bindings": {},
+  "schema_version": 1,
+  "secondary_bindings": {}
+}

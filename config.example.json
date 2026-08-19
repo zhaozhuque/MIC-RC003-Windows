@@ -1,0 +1,12 @@
+{
+  "gain_db": 10.0,
+  "max_retry_delay": 60.0,
+  "output_endpoint_host_api": "MME",
+  "output_endpoint_name": "CABLE Input (VB-Audio Virtual C",
+  "retry_delay": 5.0,
+  "schema_version": 1,
+  "selected_device_profile": "xiaomi-rc003",
+  "voice_hotkey": "lwin+h",
+  "voice_shortcut_enabled": true,
+  "voice_trigger_mode": "toggle"
+}
